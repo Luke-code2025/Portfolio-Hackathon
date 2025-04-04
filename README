@@ -1,0 +1,24 @@
+# Opiyo Adik - Portfolio
+
+This is a personal portfolio website for Opiyo Adik, a young pharmacist graduate from the University of Nairobi with a passion for digital health, research, and innovation. This portfolio highlights my skills and interests in web development, data analysis, and strategic leadership.
+
+## Sections Included
+**About Me**: A brief overview of my passion for digital health and innovation.
+**Education**: My educational background and the degree I obtained.
+**Interests**: A list of my professional interests.
+**Contact**: My contact information and a link to download my CV.
+
+## Files Included
+
+- `index.html`: The main HTML file containing the structure of the portfolio.
+- `styles.css`: The CSS file for styling the portfolio.
+- `Opiyo_Adik_CV.pdf`: My Curriculum Vitae in PDF format.
+
+## How to Run
+
+1. Download the files.
+2. Open the `index.html` file in any modern web browser.
+
+## Contact
+
+For collaborations or inquiries, you can reach me at +254704244657 or email me t adikluke@gmail.com.
