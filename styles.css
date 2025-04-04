@@ -72,21 +72,21 @@ h5 {
 }
 #education li {
     background-color: #ffffff;
-    padding: 10px;
-    margin: 5px 0;
+    padding: 1px;
+    margin: 1px 0;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 #education li h3 {
-    margin: 0;
+    margin: 10px 0;
     font-size: 1.2em;
     color: #00796b;
 }
 #interests {
     background-color: #e0f7fa;
-    padding: 20px;
-    border-radius: 10px;
-    margin-top: 20px;
+    padding: 1px;
+    border-radius: 5px;
+    margin-top: 1px;
 }
 #interests h2 {
     color: #00796b;
@@ -101,7 +101,7 @@ h5 {
 }
 #contact {
     background-color: #e0f7fa;
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
     margin-top: 20px;
 }
